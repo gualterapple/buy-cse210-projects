@@ -1,5 +1,29 @@
 
 
+
+Prezado Edeno bom dia.
+
+Sirvo-me deste para informar que:
+1 - Subsídio de primeira viagem;
+R: Recebi.
+    Subsídio de viagem total;
+R: Não Recebi.
+2.	Bilhete de passagem;
+R: Não recebi.
+3.	Passaporte de serviço;
+R: Recebi.
+4.	Itinerário da viagem com detalhe de trânsito, entre outro;
+R: Não recebi.
+5.	Informação relativamente ao local da formação;
+R: Não Recebi
+6.	Conteúdo programático e ou plano da formação;
+R: Não recebi.
+7.	Despacho do PCA de autorização de saída do país período de 14 a 24 de outubro.
+R: Não recebi.
+
+
+
+
 public class Program
 {
     public static void Main()
